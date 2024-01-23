@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:vincent-l-j.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:vincent-l-j.github.io#4ea1e4f4ede7b027080c6287c792904606eda026bad992ca1cf7e1cb557ff308",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:vincent-l-j.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "si9ULoUePbJ_pXPl4ZaXjt9rtItplO261G0xq4EzBz4=",
+        "y": "x-FSj3uaQLR5nr6GwxBPrVbOaGJUxP2Up8Pb3mxAlf8=",
+        "kid": "4ea1e4f4ede7b027080c6287c792904606eda026bad992ca1cf7e1cb557ff308",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
