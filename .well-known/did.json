@@ -6,15 +6,15 @@
   "id": "did:web:vincent-l-j.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:vincent-l-j.github.io#4ea1e4f4ede7b027080c6287c792904606eda026bad992ca1cf7e1cb557ff308",
+      "id": "did:web:vincent-l-j.github.io#d2c99d5d76afa0296870fb436789142fce58cfcdc53cfb7419c5232294705403",
       "type": "JsonWebKey2020",
       "controller": "did:web:vincent-l-j.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "si9ULoUePbJ_pXPl4ZaXjt9rtItplO261G0xq4EzBz4=",
-        "y": "x-FSj3uaQLR5nr6GwxBPrVbOaGJUxP2Up8Pb3mxAlf8=",
-        "kid": "4ea1e4f4ede7b027080c6287c792904606eda026bad992ca1cf7e1cb557ff308",
+        "x": "STa7t3n9NY7tUDIQTo3EfxvP5rlOQPnFqdF-Dy35yhs=",
+        "y": "RaLJqVA3Gzolu9-KJgib6koHdCbjRbYQRLqhMMve77k=",
+        "kid": "d2c99d5d76afa0296870fb436789142fce58cfcdc53cfb7419c5232294705403",
         "alg": "ES256"
       }
     }
